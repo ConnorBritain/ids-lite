@@ -1,0 +1,42 @@
+# Intrusion-Detection-System - requirements.txt
+
+# ==============================================
+# CORE LIBRARIES
+# ==============================================
+
+# Scapy: Fundamental for packet capture and analysis.
+scapy==2.4.5
+
+# Loguru: Enhanced logging capabilities with simplicity in mind.
+loguru==0.5.3
+
+# Yagmail: Used for sending email alerts when an intrusion is detected.
+yagmail==0.14.260
+
+# ==============================================
+# GUI DEPENDENCIES
+# ==============================================
+
+# PyQt5: Robust set of tools to create desktop applications.
+PyQt5==5.15.4
+PyQt5-sip==12.9.0  # SIP is a tool required for generating PyQt binding code.
+
+# ==============================================
+# TESTING
+# ==============================================
+
+# Pytest: A mature full-featured Python testing tool.
+pytest==6.2.5
+
+# ==============================================
+# OPTIONAL/ FUTURE EXTENSIONS
+# ==============================================
+
+# SQLAlchemy (optional): If choosing to implement a relational database for logs/alerts.
+# sqlalchemy==1.4.23
+
+# Pandas & Scikit-learn (optional): If data analysis or machine learning becomes a project feature.
+# pandas==1.3.3
+# scikit-learn==0.24.2
+
+# Note to developers: Before adding or updating any package, ensure compatibility and perform adequate testing.
