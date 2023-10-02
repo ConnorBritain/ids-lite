@@ -22,12 +22,12 @@ Using this project as a way to go deeper into security engineering, GUI developm
 
 ## 📋 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Installation](##installation)
+- [Usage](##usage)
+- [Testing](##testing)
+- [Contributing](##contributing)
+- [License](##license)
+- [Contact](##contact)
 
 ---
 
@@ -154,7 +154,7 @@ Open-source projects thrive on contributions. Here's how you can join the action
 
 ## ⚖️ License
 
-This project is licensed under the MIT License. Details can be found in the [`LICENSE`](LICENSE) file.
+This project is licensed under the MIT License. Details can be found in the [`LICENSE`](LICENSE.md) file.
 
 ---
 
