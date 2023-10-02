@@ -10,8 +10,16 @@ scapy==2.4.5
 # Loguru: Enhanced logging capabilities with simplicity in mind.
 loguru==0.5.3
 
+# Requests: Library for making HTTP requests.
+requests==2.26.0
+
+# Cryptography: Provides cryptographic recipes and primitives for secure configurations.
+cryptography==3.4.8
+
 # Yagmail: Used for sending email alerts when an intrusion is detected.
 yagmail==0.14.260
+
+# Smtplib (standard library): Used for email communication.
 
 # ==============================================
 # GUI DEPENDENCIES
