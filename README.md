@@ -4,7 +4,7 @@
 
 An open-source Intrusion Detection System crafted with Python and Scapy, complemented by a user-friendly GUI via PyQt.
 
-# WORK IN PROGRESS
+### WORK IN PROGRESS
 
 Using this project as a way to go deeper into security engineering, GUI development, and Scapy. This will continue to develop over time. It is a personal passion project, but as with all open-source code, all contributions and support/feedback are welcomed and encouraged.
 
